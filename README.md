@@ -1,1 +1,2 @@
 # exercicio6
+teste
